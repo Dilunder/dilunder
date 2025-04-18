@@ -7,4 +7,4 @@
 Later... ;)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=27A0D9&)
+[![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=27A0D9&)](https://t.me/dilunder)
