@@ -1,6 +1,6 @@
 ![Header](https://github.com/Dilunder/dilunder/blob/main/assets/Hello.gif)
 
-About me
+## I'm an ITMO student, a beginner Software Engeneer
 
 Languages and Tools
 
