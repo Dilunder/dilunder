@@ -2,6 +2,9 @@
 
 ## I'm an ITMO student, a beginner Software Engeneer
 
-Languages and Tools
+### Languages and Tools
 
-Follow Me
+Later... ;)
+
+### Follow Me
+![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=27A0D9&)
