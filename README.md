@@ -1,4 +1,4 @@
-![Header](https://github.com/Dilunder/dilunder/blob/main/assets/Welcome.jpg)
+![Header]()
 
 About me
 
